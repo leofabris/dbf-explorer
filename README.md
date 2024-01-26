@@ -1,2 +1,2 @@
 # dbf-explorer
-A java client to open and read dbf database files
+A simple java client to open and read dbf database files
